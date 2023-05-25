@@ -1,0 +1,2 @@
+# magellan
+Something with worldmaps.
